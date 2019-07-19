@@ -25,7 +25,7 @@ This model uses transfer learning and Google's Inception V3 CNN to classify imag
 <table border="0">
  <tr>
     <td><b style="font-size:30px">Test Image #1</b>
-        <img src="snake_images/827.jpg" width="160" height="200"/>
+       <img src="snake_images/827.jpg" width="160" height="200"/>
    </td>
     <td><b style="font-size:30px">Test Image #2</b></td>
  </tr>
