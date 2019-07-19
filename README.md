@@ -1,5 +1,6 @@
 # SnakeID Image Classifier
-
+![el](snake_images/1.jpeg)
+![el](snake_images/2.jpeg)
 This model uses transfer learning and Google's Inception V3 CNN to classify images of different species of snake.
 
 # Table of Contents
