@@ -1,14 +1,14 @@
 # SnakeID Image Classifier
 
-This model uses Google's Inception V3 CNN to classify images of different species of snake.
+This model uses transfer learning and Google's Inception V3 CNN to classify images of different species of snake.
 
 # Table of Contents
+* [Requirements](#requirements)
+* [Usage](#usage)
 
-* [Team Members](#team-members)
+# <a name="requirements"></a>Requirements
+* Docker
 
-# <a name="team-members"></a>Team Members
-* "J. Jesus. P. Aguinaga" <admin@listforks.com>
-
-# Requirements
-# Usage
+# <a name="usage"></a>Usage
+* Run macguyver_model.sh
 
