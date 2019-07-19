@@ -1,7 +1,7 @@
 # SnakeID Image Classifier
 <div>
   <img src="snake_images/1.jpeg" width="328" height="238"/>
-  <img src="snake_images/2.jpeg" width="328" height="238"/>
+  <img src="snake_images/2.jpeg" width="348" height="238"/>
 </div>
 This model uses transfer learning and Google's Inception V3 CNN to classify images of different species of snake.
 
