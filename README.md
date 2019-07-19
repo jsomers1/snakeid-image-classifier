@@ -6,11 +6,11 @@
 This model uses transfer learning and Google's Inception V3 CNN to classify images of different species of snake. The model classifies images into 2 species classes currently with about 88% accuracy. Future project goals include adding many more species to the image library and continued development of a web app in Flask.
 
 # Table of Contents
-* [Requirements](#requirements)
+* [Tools](#tools)
 * [Usage](#usage)
 * [Output](#output)
 
-# <a name="requirements"></a>Tools
+# <a name="tools"></a>Tools
 * Docker
 * Tensorflow Docker Image
 * Flask
@@ -25,11 +25,14 @@ This model uses transfer learning and Google's Inception V3 CNN to classify imag
 <table border="0">
  <tr>
     <td><b style="font-size:30px">Test Image #1</b>
-       <img src="snake_images/827.jpg" width="160" height="200"/>
+      <img src="snake_images/827.jpg" width="160" height="200"/>
    </td>
-    <td><b style="font-size:30px">Test Image #2</b></td>
+    <td><b style="font-size:30px">Test Image #2</b>
+      <img src="snake_images/1050.jpg" width="160" height="200"/>
+   </td>
  </tr>
 </table>
+
 <div>
   <img src="snake_images/827.jpg" width="160" height="200"/>
   <img src="snake_images/1050.jpg" width="160" height="200"/>
