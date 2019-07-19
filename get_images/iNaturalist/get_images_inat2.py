@@ -14,6 +14,6 @@ a[:] = [b.replace('medium', 'large') for b in a]
 c = a[len(a)//2:]
 count = 1854
 for x in c:
-    urllib.urlretrieve(x, '/Users/jonahsomers/Desktop/copperhead/' + str(count) + '.jpg')
+    urllib.urlretrieve(x, '/Users/js/Desktop/copperhead/' + str(count) + '.jpg')
     print(count)
     count += 1
