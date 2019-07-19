@@ -22,7 +22,12 @@ This model uses transfer learning and Google's Inception V3 CNN to classify imag
 * Run macguyver_model.sh
 
 # <a name="output"></a>Output
-Test image #1 Test image #2
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Test Image #1</b></td>
+    <td><b style="font-size:30px">Test Image #2</b></td>
+ </tr>
+</table>
 <div>
   <img src="snake_images/827.jpg" width="160" height="200"/>
   <img src="snake_images/1050.jpg" width="160" height="200"/>
