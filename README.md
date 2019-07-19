@@ -33,7 +33,9 @@ This model uses transfer learning and Google's Inception V3 CNN to classify imag
  </tr>
 </table>
 
+<center>
 | Test Image #1  | Test Image #2 |
 | ------------- | ------------- |
-| <img src="snake_images/827.jpg" width="160" height="200"/>  | <img src="snake_images/1050.jpg" width="160" height="200"/>  |
+| <img src="snake_images/827.jpg" width="260" height="300"/>  | <img src="snake_images/1050.jpg" width="260" height="300"/>  |
 | Content Cell  | Content Cell  |
+</center>
