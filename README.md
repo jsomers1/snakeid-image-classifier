@@ -54,7 +54,7 @@ This model uses transfer learning and Google's Inception V3 CNN to classify imag
  </table>
  -->
  
-<table width="320" border="0" cellpadding="5">
+<table width="920" border="0" cellpadding="5">
   <tr>
     <td align="center" valign="center">
       Test Image #1
