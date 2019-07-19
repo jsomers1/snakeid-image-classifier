@@ -32,19 +32,43 @@ This model uses transfer learning and Google's Inception V3 CNN to classify imag
    </td>
  </tr>
 </table>
-
+<!--
 <div>
   <img src="snake_images/827.jpg" width="160" height="200"/>
   <img src="snake_images/1050.jpg" width="160" height="200"/>
 </div>
-
+-->
+<!--
 <table>
   <tr>
    <th>Test Image #1</th>
    <th>Test Image #2</th>
   </tr>
   <tr>
+   <td>text in column</td>
+   <td>text in column</td>
+   <td>text in column</td>
    <img src="snake_images/827.jpg" width="160" height="200"/>
    <img src="snake_images/1050.jpg" width="160" height="200"/>
   </tr>
  </table>
+ -->
+<table width="500" border="0" cellpadding="5">
+
+<tr>
+
+<td align="center" valign="center">
+<img src="snake_images/827.jpg" width="160" height="200"/>
+<br />
+Caption text centered under the image.
+</td>
+
+<td align="center" valign="center">
+<img src="snake_images/1050.jpg" width="160" height="200"/>
+<br />
+Caption text centered under the image.
+</td>
+
+</tr>
+
+</table>
