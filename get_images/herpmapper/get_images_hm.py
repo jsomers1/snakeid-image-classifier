@@ -36,5 +36,5 @@ for i in range(1,65):
     # Download images
     count = 1
     for a in b:
-        urllib.urlretrieve(a, '/Users/jonahsomers/Desktop/copperhead/' + str(i) + '-' + str(count) + '.jpg')
+        urllib.urlretrieve(a, '/Users/js/Desktop/copperhead/' + str(i) + '-' + str(count) + '.jpg')
         count += 1
