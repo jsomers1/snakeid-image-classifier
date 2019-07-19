@@ -60,13 +60,15 @@ This model uses transfer learning and Google's Inception V3 CNN to classify imag
 <td align="center" valign="center">
 <img src="snake_images/827.jpg" width="160" height="200"/>
 <br />
-Caption text centered under the image.
+Test Image #1
 </td>
 
 <td align="center" valign="center">
+  Caption text centered under the image.
+  <br />
 <img src="snake_images/1050.jpg" width="160" height="200"/>
-<br />
-Caption text centered under the image.
+
+
 </td>
 
 </tr>
