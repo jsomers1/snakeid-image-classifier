@@ -24,6 +24,7 @@ This model uses transfer learning and Google's Inception V3 convolutional neural
 * Downloaded Docker and Macguyver Tensorflow Docker image
 * Run various commands from macgyver_model.sh to import, train, and test model on image library
 | Overall Model Accuracy |
+| ------------- |
 | <img src="snake_images/1001_prediction.png" width="400" height="65"/> |
 * Currently working to interface model with front-end web application built with Flask
 
