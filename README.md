@@ -27,6 +27,10 @@ This model uses transfer learning and Google's Inception V3 convolutional neural
 | Overall Model Accuracy | <img src="snake_images/1001_prediction.png" width="400" height="65"/> |
 * Currently working to interface model with front-end web application built with Flask
 
+| | | |
+|-|-|-|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
 
 # <a name="eoutput"></a>Example Output
 | Test Image #1  | Test Image #2 |
