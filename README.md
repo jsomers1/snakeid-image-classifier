@@ -8,7 +8,7 @@ This model uses transfer learning and Google's Inception V3 CNN to classify imag
 # Table of Contents
 * [Tools](#tools)
 * [Usage](#usage)
-* [Output](#output)
+* [Sample Output](#soutput)
 
 # <a name="tools"></a>Tools
 * Docker
@@ -21,7 +21,7 @@ This model uses transfer learning and Google's Inception V3 CNN to classify imag
 * Download Docker and download Macguyver Tensorflow image
 * Run macguyver_model.sh
 
-# <a name="output"></a>Output
+# <a name="soutput"></a>Sample Output
 | Test Image #1  | Test Image #2 |
 | ------------- | ------------- |
 | <img src="snake_images/1001.jpg" width="400" height="250"/>  | <img src="snake_images/4609.jpg" width="400" height="250"/>  |
