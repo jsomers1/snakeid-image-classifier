@@ -22,7 +22,7 @@ This model uses transfer learning and Google's Inception V3 convolutional neural
 * Compiled image library by web scraping (get_images.py) and through iNaturalist's CSV downloader
 * Renamed and restructured image library for 2 image classes
 * Downloaded Docker and Macguyver Tensorflow Docker image
-* Run various commands from macgyver_model.sh to import, train, and test model on image library
+* Ran various commands from macgyver_model.sh to import, train, and test model on image library
 <table align="center">
 <tr>
 <td align="center">Overall Model Accuracy</td>
