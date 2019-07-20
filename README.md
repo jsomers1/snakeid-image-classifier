@@ -8,7 +8,7 @@ This model uses transfer learning and Google's Inception V3 convolutional neural
 
 # Table of Contents
 * [Tools](#tools)
-* [Usage](#usage)
+* [Methodology](#method)
 * [Example Output](#eoutput)
 
 # <a name="tools"></a>Tools
@@ -18,11 +18,13 @@ This model uses transfer learning and Google's Inception V3 convolutional neural
 * Flask
 * HTML
 
-# <a name="usage"></a>Usage
-* Compile your own image library by web scraping (as in get_images) and through iNaturalist's CSV downloader.
-* Rename and restructure image library if necessary
-* Download Docker and download Macguyver Tensorflow image
-* Run macguyver_model.sh
+# <a name="method"></a>Methodology
+* Compiled image library by web scraping (get_images.py) and through iNaturalist's CSV downloader
+* Renamed and restructured image library for 2 image classes
+* Downloaded Docker and Macguyver Tensorflow Docker image
+* Run various commands from macgyver_model.sh to import, train, and test model on image library
+* Currently working to interface model with front-end web app built with Flask
+
 
 # <a name="eoutput"></a>Example Output
 | Test Image #1  | Test Image #2 |
