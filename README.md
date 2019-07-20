@@ -26,7 +26,7 @@ This model uses transfer learning and Google's Inception V3 convolutional neural
 <table align="center">
 <tr>
 <td align="center">Overall Model Accuracy</td>
-<td align="center"><img src="snake_images/overall_accuracy.png" width="600" height="20"/><br/></td>
+<td align="center"><img src="snake_images/overall_accuracy.png" width="600" height="25"/><br/></td>
 </tr>
 </table>
 * Currently working to interface model with front-end web application built with Flask
