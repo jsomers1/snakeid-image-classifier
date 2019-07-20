@@ -9,12 +9,14 @@ This model uses transfer learning and Google's Inception V3 convolutional neural
 # Table of Contents
 * [Tools](#tools)
 * [Usage](#usage)
-* [Sample Output](#soutput)
+* [Example Output](#eoutput)
 
 # <a name="tools"></a>Tools
+* Python
 * Docker
 * Tensorflow Docker Image
 * Flask
+* HTML
 
 # <a name="usage"></a>Usage
 * Compile your own image library by web scraping (as in get_images) and through iNaturalist's CSV downloader.
@@ -22,7 +24,7 @@ This model uses transfer learning and Google's Inception V3 convolutional neural
 * Download Docker and download Macguyver Tensorflow image
 * Run macguyver_model.sh
 
-# <a name="soutput"></a>Sample Output
+# <a name="eoutput"></a>Example Output
 | Test Image #1  | Test Image #2 |
 | ------------- | ------------- |
 | <img src="snake_images/1001.jpg" width="400" height="250"/>  | <img src="snake_images/4609.jpg" width="400" height="250"/>  |
