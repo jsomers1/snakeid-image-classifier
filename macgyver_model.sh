@@ -1,6 +1,9 @@
-# Pull from repo and set up tensorflow container
+# First time: pull from repo and set up tensorflow container
 docker run -it -d macgyvertechnology/tensorflow
 docker images
+
+# To continue working with previously used images
+docker run -it fab9f44037a5 bash # or also 173a0562871e
 
 # View containers
 docker ps -a
