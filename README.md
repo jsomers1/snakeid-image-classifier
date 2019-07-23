@@ -44,5 +44,5 @@ This model uses transfer learning and Google's Inception V3 convolutional neural
 
 
 # <a name="views"></a>Front-End Application
-<img src="snake_images/web_view1.jpeg" width="428" height="298"/>
-<img src="snake_images/web_view2.jpeg" width="428" height="298"/>
+<img src="snake_images/web_view1.png" width="900" height="600"/>
+<img src="snake_images/web_view2.png" width="900" height="600"/>
