@@ -31,7 +31,7 @@ This model uses transfer learning and Google's Inception V3 convolutional neural
 </tr>
 </table>
 
-* Implemented web application with Flask and HTML to receive the user's image input and interface with model 
+* Implemented web application with Flask and HTML to receive the user's image input and interface with model locally
 
 
 # <a name="eoutput"></a>Example Output
