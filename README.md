@@ -4,7 +4,7 @@
   <img src="snake_images/2.jpeg" width="428" height="298"/>
 </div>
 
-This model uses transfer learning and Google's Inception V3 convolutional neural network to classify images of different species of the suborder *Serpentes*, specifically those of the genus *Agkistrodon*. The model currently classifies 2 species classes with about 89% overall accuracy. Future project goals include adding many more species to the image library and continued development of a web application in Flask.
+This model uses transfer learning and Google's Inception V3 convolutional neural network to classify images of different species of the suborder *Serpentes*, specifically those of the genus *Agkistrodon*. The model currently classifies 2 species classes with about 89% overall accuracy. A web application written with Flask and HTML serves as a GUI for the model, whose code is found on a Docker image.
 
 # Table of Contents
 * [Tools](#tools)
@@ -44,5 +44,5 @@ This model uses transfer learning and Google's Inception V3 convolutional neural
 
 
 # <a name="views"></a>Front-End Application
-<img src="snake_images/web_view1.png" width="900" height="500"/>
+<img src="snake_images/web_view1.png" width="900" height="450"/>
 <img src="snake_images/web_view2.png" width="900" height="500"/>
