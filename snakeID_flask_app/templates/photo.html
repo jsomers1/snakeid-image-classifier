@@ -1,0 +1,22 @@
+{% extends 'home.html' %}
+
+{% block body %}
+<div class="jumbotron text-center">
+		<h1>Welcome to the SnakeID Classifier</h1>
+		<p class="lead">This application identifies different species of snakes from user submitted images. </p>
+		<!--<img src="/static/img/1.jpeg" height="200" width="300">-->
+</div>
+<div class="container">
+   <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+      <font size="14"><b>Image Input: </b></font>
+      <img src="{{ user_image }}" alt="User Image" style="max-width:500px;max-height:500px">
+   </div>
+   <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+      <font size="14"><b>Prediction: </b></font>
+      <BR>
+      <font size="6">{{ pred1 }}</font>
+      <BR>
+      <font size="6">{{ pred2 }}</font>
+   </div>
+<div>
+{% endblock %}
