@@ -10,6 +10,7 @@ This model uses transfer learning and Google's Inception V3 convolutional neural
 * [Tools](#tools)
 * [Methodology](#method)
 * [Example Output](#eoutput)
+* [Front-End Application](#views)
 
 # <a name="tools"></a>Tools
 * Python
@@ -38,3 +39,10 @@ This model uses transfer learning and Google's Inception V3 convolutional neural
 | ------------- | ------------- |
 | <img src="snake_images/1001.jpg" width="400" height="250"/>  | <img src="snake_images/4609.jpg" width="400" height="250"/>  |
 | <img src="snake_images/1001_prediction.png" width="400" height="65"/>  | <img src="snake_images/4609_prediction.png" width="400" height="65"/>  |
+
+
+
+
+# <a name="views"></a>Front-End Application
+<img src="snake_images/web_view1.jpeg" width="428" height="298"/>
+<img src="snake_images/web_view2.jpeg" width="428" height="298"/>
