@@ -30,8 +30,7 @@ This model uses transfer learning and Google's Inception V3 convolutional neural
 <td align="center"><img src="snake_images/overall_accuracy.png" width="600" height="25"/><br/></td>
 </tr>
 </table>
-* Currently working to interface model with front-end web application built with Flask
-
+* Implemented web application with Flask and HTML to receive the user's image input and interface with model 
 
 
 # <a name="eoutput"></a>Example Output
