@@ -18,8 +18,8 @@ def upload():
         os.system(cmd)
         with open('prediction.txt','r') as file:
         	predictString = file.read()
-		a = predictString.split(')', 1)[0].replace('(', '').replace(')','')
-		b = predictString.split(')', 1)[1].replace('(', '').replace(')','')
+		a = predictString.split(')', 1)[0].translate(None, '()')
+		b = predictString.split(')', 1)[1].translate(None, '()')
         return render_template('photo.html', user_image = filename1, pred1 = a, pred2 = b)
     else:
     	return render_template('home.html')
