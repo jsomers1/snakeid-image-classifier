@@ -1,9 +1,5 @@
-import urllib2
-import re
-import os
-import urllib
+import urllib2, re, os, urllib, random
 from bs4 import BeautifulSoup
-import random
 
 for i in range(1,65):
     # Parse HTML
